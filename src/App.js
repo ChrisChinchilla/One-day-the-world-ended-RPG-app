@@ -5,27 +5,6 @@ import Mailchimp from 'react-mailchimp-form'
 import logo from './logo.svg';
 import './odtwe.css';
 
-// function App() {
-//   return (
-//     <div className="App">
-//       <header className="App-header">
-//         <img src={logo} className="App-logo" alt="logo" />
-//         <p>
-//           Edit <code>src/App.js</code> and save to reload.
-//         </p>
-//         <a
-//           className="App-link"
-//           href="https://reactjs.org"
-//           target="_blank"
-//           rel="noopener noreferrer"
-//         >
-//           Learn React
-//         </a>
-//       </header>
-//     </div>
-//   );
-// }
-
 class Session extends React.Component {
   constructor(props) {
     super(props);
@@ -36,8 +15,9 @@ class Session extends React.Component {
   render() {
     return (
       <div>
-        <h1>Welcome to the One Day the World Ended App</h1>
+        <h1>Welcome to the One Day the World Ended</h1>
         <p>Below is everything you need to get started with a game, select the number of players to generate characters and off you go!</p>
+        <p><a href="/">Read the game rules</a></p>
         <Reason />
         <Setting />
         <CharacterNumber />
@@ -219,4 +199,4 @@ class Setting extends React.Component {
 }
 
 
-export default Session;
+export { Session }
