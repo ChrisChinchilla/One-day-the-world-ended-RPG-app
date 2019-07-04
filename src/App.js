@@ -1,6 +1,7 @@
 import React from 'react';
 import odtweg from 'odtweg';
 import names from 'nodejs-randomnames';
+import Mailchimp from 'react-mailchimp-form'
 import logo from './logo.svg';
 import './odtwe.css';
 
@@ -40,6 +41,19 @@ class Session extends React.Component {
         <Reason />
         <Setting />
         <CharacterNumber />
+        <h2>Mailing list</h2>
+        <p>Join our mailing list for updates</p>
+        <Mailchimp
+          action='https://gregariousmammal.us10.list-manage.com/subscribe/post?u=a177a7811dd28fcd87829f78f&amp;id=ae210e49a5'
+          fields={[
+            {
+              name: 'EMAIL',
+              placeholder: 'Email',
+              type: 'email',
+              required: true
+            }
+          ]}
+        />
       </div>
     );
   }
@@ -203,5 +217,6 @@ class Setting extends React.Component {
     );
   }
 }
+
 
 export default Session;

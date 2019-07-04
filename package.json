@@ -3,11 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "nodejs-randomnames": "1.0.1",
+    "odtweg": "0.0.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1",
-    "odtweg": "0.0.2",
-    "nodejs-randomnames": "1.0.1"
+    "react-mailchimp-form": "^1.0.2",
+    "react-scripts": "3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
