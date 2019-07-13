@@ -1,5 +1,5 @@
 import React from "react"
-import { Route } from "react-router-dom"
+import { Route } from "react-router-dom";
 import { Homepage } from "./components"
 import { Session } from "./App"
 

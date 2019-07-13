@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-// import Session from './App';
 import * as serviceWorker from './serviceWorker';
 import Routes from "./routes"
 import { Router } from "react-router-dom"

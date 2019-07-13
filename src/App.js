@@ -1,9 +1,9 @@
-import React from 'react';
 import odtweg from 'odtweg';
 import names from 'nodejs-randomnames';
 import Mailchimp from 'react-mailchimp-form'
-import logo from './logo.svg';
 import './odtwe.css';
+
+const React = require('react')
 
 class Session extends React.Component {
   constructor(props) {

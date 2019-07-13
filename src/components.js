@@ -2,7 +2,6 @@ import rulesMD from './rules.md'
 import Mailchimp from 'react-mailchimp-form'
 
 const React = require('react')
-const ReactDOM = require('react-dom')
 const ReactMarkdown = require('react-markdown')
 
 class Homepage extends React.Component {
