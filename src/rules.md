@@ -12,7 +12,6 @@ The other is a collaborative storytelling game played over two rounds, where you
 
 No matter which variant you play, you still need to generate characters and a world. You can do this from your immagination, or use [the ODTWE app](/app).
 
-
 ## Storyteller led game
 
 A storyteller led game is more unstructured, and is mostyl up to the storyteller and players. A Storyteller led game involves (basic) mechanics, character feature, a [reason the world ended](#reason), and a [new world setting](#setting). But how you decide to play with these is largely up to you. Extra ideas and advice are throughout the rest of the rules, and generally I conceived the game as kind of a "what happened?" mystery in a strange and surreal world.
@@ -20,10 +19,15 @@ A storyteller led game is more unstructured, and is mostyl up to the storyteller
 ## Player led game
 
 The player led game consists of two rounds. In each round players take it in turns to tell their story. A game is designed to be fun, so other players are encouraged to add flavour and interjections to the story as much as suits the group and their play style. However players are not able to derail, or contradict another players story unless they use an [item](#items) or [feature](#features).
+
 ### Round one - the reason
+
 In the first round each player takes it in turns to tell their story of [the reason](#reason) the world ended. The elements of the reason are a shared world the players are all a part of, but the players don't necessarily need to know each other or to have experienced the reason together.
+
 ### Round two - the new world
+
 In the second round each player takes it in turns to tell their story of the new [world](#setting) they find themselves thrust into. In this round the players find themselves together with their knowledge of each other continued from the first round.
+
 ## Creating a character
 
 Each player needs a character for the story.
@@ -110,9 +114,11 @@ The result gives you a handful of components to the reason the world ended, incl
 _Due to the nature of the random text generation, the reason may not contain all of these values, add any that are missing, or important to you_.
 
 #### Player led game
+
 The reason forms round one of the player led game. Players take in turns to describe an aspect of the reason the world ended. Did they see how it happened, did they know the person? Where they simply living their lives as they witnessed the world around them collapsing?
 
 #### Storyteller led game
+
 If there’s a person involved, then they are also in this new world with the players. Maybe they are aware that they are in a strange place, and what they did, maybe not. Use elements of the reason to entice players along the story in an attempt to solve the “mystery”. How they resolve this is up to you, maybe it’s tracking down this person and confronting them with what they’ve done. Maybe it’s just a case of assembling a series of the facts. When resolved (<!-- TODO: this needs more details -->) through some mechanism, or method that is up to you, offer the players an option, which option they choose is individual:
 
 - They can now return home to the world they know and continue their lives. In which case for the next session of ODTWE they start With a new character.
