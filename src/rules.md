@@ -8,13 +8,13 @@ There are two variants to the game.
 
 One is run with a storyteller (or games master, or keeper, or all knowing overlord), where there is something of a mystery to attempt to unravel. For more on that variant, jump right to the outline for a "[storyteller led game](#storyteller-led-game)".
 
-The other is a collaborative storytelling game played over two rounds, where you work the generated setting and charcters into a combined narrative, but no one person is in charge of the world. For more on that variant, jump right to the outline for a "[player led game](#player-led-game)".
+The other is a collaborative storytelling game played over two rounds, where you work the generated setting and characters into a combined narrative, but no one person is in charge of the world. For more on that variant, jump right to the outline for a "[player led game](#player-led-game)".
 
-No matter which variant you play, you still need to generate characters and a world. You can do this from your immagination, or use [the ODTWE app](/app).
+No matter which variant you play, you still need to generate characters and a world. You can do this from your imagination, or use [the ODTWE app](/app).
 
 ## Storyteller led game
 
-A storyteller led game is more unstructured, and is mostyl up to the storyteller and players. A Storyteller led game involves (basic) mechanics, character feature, a [reason the world ended](#reason), and a [new world setting](#setting). But how you decide to play with these is largely up to you. Extra ideas and advice are throughout the rest of the rules, and generally I conceived the game as kind of a "what happened?" mystery in a strange and surreal world.
+A storyteller led game is more unstructured, and is mostly up to the storyteller and players. A Storyteller led game involves (basic) mechanics, character feature, a [reason the world ended](#reason), and a [new world setting](#setting). But how you decide to play with these is largely up to you. Extra ideas and advice are throughout the rest of the rules, and generally I conceived the game as kind of a "what happened?" mystery in a strange and surreal world.
 
 ## Player led game
 
